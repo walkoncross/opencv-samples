@@ -1,0 +1,1 @@
+Example from [learnopencv.com](https://www.learnopencv.com/seamless-cloning-using-opencv-python-cpp/)
